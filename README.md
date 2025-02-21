@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**bbynaaf/bbynaaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm **Bunga Syawalia Fadiah**, a high school student passionate about literature, technology, and creative projects. 
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- Poetry & Creative Writing ✍️
+- Computer Networks & Arduino ⚡
+- Science & Research 🔬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Projects & Interests
+- Writing poetry and exploring figurative language
+- Experimenting with networking and single-board computers
+- Creating eco-friendly crafts with EcoGlam
+- Analyzing folklore and traditional culture
+
+### 📫 Let's Connect!
+- Instagram: [Your Instagram Handle]
+- Email: [Your Email]
+
+⚡ Fun Fact: I express emotions best through poetry—just not with the word *cinta*! 😆
